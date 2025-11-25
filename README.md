@@ -10,6 +10,8 @@ Project structure
 - `css/styles.css` — Shared styles
 - `js/main.js` — Small script to toggle mobile nav
 - `assets/` — Put your images here (profile and project screenshots)
+- `_config.yml` — Control center for a jekyll site
+- `layouts/` — Folder for jekyll when building a site
 
 Replace placeholders
 - Update the GitHub and Codecademy links in the pages with your real profile URLs.
