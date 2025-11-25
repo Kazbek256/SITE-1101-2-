@@ -3,10 +3,10 @@
 This is a small static personal website with pages: Home, About, Projects, Resume.
 
 Project structure
-- `index.html` — Home page
-- `about.html` — About
-- `projects.html` — Projects (Project 1 showcased)
-- `resume.html` — Resume
+- `index.md` — Home page
+- `about.md` — About
+- `projects.md` — Projects (Project 1 showcased)
+- `resume.md` — Resume
 - `css/styles.css` — Shared styles
 - `js/main.js` — Small script to toggle mobile nav
 - `assets/` — Put your images here (profile and project screenshots)
